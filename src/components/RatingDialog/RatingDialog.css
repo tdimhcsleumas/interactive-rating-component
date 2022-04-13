@@ -1,0 +1,56 @@
+.Card {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100px;
+    min-width: 100px;
+    max-height: 350px;
+    max-width: 350px;
+    padding:30px 30px 30px 30px;
+    border-radius: 30px;
+    color: hsl(0, 0%, 100%); 
+    background: radial-gradient(
+        circle at top,
+        hsl(213, 19%, 18%),
+        hsl(213, 12%, 10%)
+    );
+}
+
+.Emblem {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 50px;
+    height: 50px;
+    background-color: hsl(213, 19%, 18%);
+    border-radius: 50%;
+
+}
+
+.Emblem:hover {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(25, 97%, 53%);
+    cursor: pointer;
+}
+
+.Button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Submit-button {
+    background-color: hsl(25, 97%, 53%);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.Submit-button:hover {
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(25, 97%, 53%);
+    cursor: pointer;
+}
