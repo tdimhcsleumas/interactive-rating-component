@@ -7,7 +7,7 @@ const RatingDialog = () => {
     <div>
         <div className="Card">
             <div className="Emblem">
-                <img src={iconStar} />
+                <img src={iconStar} alt="Star icon." />
             </div>
             <h1>
                 How did we do?
