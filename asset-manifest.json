@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/interactive-rating-component/static/css/main.f5af26d5.css",
+    "main.js": "/interactive-rating-component/static/js/main.d47e0e0b.js",
+    "index.html": "/interactive-rating-component/index.html",
+    "static/media/icon-star.svg": "/interactive-rating-component/static/media/icon-star.12766a8d207af861a70f92500634c8be.svg",
+    "main.f5af26d5.css.map": "/interactive-rating-component/static/css/main.f5af26d5.css.map",
+    "main.d47e0e0b.js.map": "/interactive-rating-component/static/js/main.d47e0e0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5af26d5.css",
+    "static/js/main.d47e0e0b.js"
+  ]
+}
